@@ -1,0 +1,140 @@
+{
+  "title": "Metalatam",
+  "home": {
+    "subtitle": "Construyamos juntos la transición de la web y el metaverso"
+  },
+  "hello": {
+    "title": "<HOLA MUNDO>",
+    "quote": "'SER PROGRAMADOR SIEMPRE FUE COOL'",
+    "p1": "Hola y bienvenido a METALATAM, una instancia de mapeo digital donde los desarrolladores web3, arquitectos digitales, marketeros y marcas se unen en torno a la reflexión sobre el futuro que estamos viviendo.",
+    "p2": "El llamado es a que desde Chile potenciemos el desarrollo, nos unamos y generemos instancias que impulsen a las startups locales con el fin de escalar al mundo."
+  },
+  "goals": {
+    "title": "Objetivos",
+    "1": {
+      "title": "Educación",
+      "description": "Revolución de la educación online."
+    },
+    "2": {
+      "title": "Blockchain",
+      "description": "La cadena de bloques, sus usos, entendimiento y casos de usos."
+    },
+    "3": {
+      "title": "Web3",
+      "description": "Qué es y cómo cambia la forma en que entendemos nuestros datos en internet."
+    },
+    "4": {
+      "title": "Legalidad",
+      "description": "El futuro viene cargado de desafíos regulatorios. La pregunta es, cómo vamos a organizar la fiesta."
+    },
+    "5": {
+      "title": "Dev World",
+      "description": "El área TI como el centro del negocio. Soluciona el problema de tu correo tú solo."
+    },
+    "6": {
+      "title": "Metaverso",
+      "description": "Crear experiencias inmersivas con las personas como centro."
+    }
+  },
+  "road": {
+    "title": "Evento",
+    "1": {
+      "title": "Charlas",
+      "description": "Los sabios hablan, todos aprendemos."
+    },
+    "2": {
+      "title": "Encuentros",
+      "description": "Conoce gente del ecosistema, encuentra un partner o un VC, todo puede pasar mientras conversamos."
+    },
+    "3": {
+      "title": "Expo Stuff",
+      "description": "Cuéntale al mundo qué puedes hacer por las personas."
+    },
+    "4": {
+      "title": "Momento Demo",
+      "description": "El momento de la verdad, que se cuelgue tu software es altamente probable."
+    }
+  },
+  "audience": {
+    "title": "Nuestra Audiencia",
+    "1": {
+      "title": "Desarrolladores",
+      "description": "Queremos que se creen instancias de esparcimiento, donde el conocimiento y las redes de contacto prevalezcan."
+    },
+    "2": {
+      "title": "Emprendedores",
+      "description": "Es el momento de contarle al mundo en qué estás trabajando. Encontrar a ese partner o inversor es la meta."
+    },
+    "3": {
+      "title": "Compañías",
+      "description": "VC's, gerentes y tomadores de decisiones en un espacio para planificar su próxima aventura."
+    }
+  },
+  "business": {
+    "title": "Oportunidades de Negocio",
+    "1": {
+      "title": "Exposición",
+      "description": "Expone tu marca a los desarrolladores y consumidores. Un stand que sorprenda a la audiencia."
+    },
+    "2": {
+      "title": "Charlas",
+      "description": "Todas las empresas pueden enviar a su mejor campeón o un sabio. Elige tu estrategia."
+    }
+  },
+  "sponsors": {
+    "title": "Niveles de Auspiciantes",
+    "includes": "Incluye",
+    "categories": {
+      "1": {
+        "name": "Web-2",
+        "price": "3000 USD"
+      },
+      "2": {
+        "name": "Web-3",
+        "price": "7500 USD"
+      },
+      "3": {
+        "name": "Metaverse",
+        "price": "10000 USD"
+      }
+    },
+    "items": {
+      "a": "Logo en el sitio web del organizador www.azomland.com",
+      "b": "Logo en el sitio web del evento www.metalatam.xyz",
+      "c": "Logo en las pantallas el día del evento",
+      "d": "Logo en la prensa mencionando el nivel de auspiciante",
+      "e": "Logo en le video promocional del evento",
+      "allWeb2": "Todo lo incluido en Web-2",
+      "f": "Entrevista en video",
+      "g": "Stand de exhibición el día del evento*",
+      "h": "Anuncio de auspicio al inicio de cada charla",
+      "boothIncludes": "*El stand incluye:",
+      "boothA": "Pantalla LED de 52' para proyectar videos e imágenes",
+      "boothB": "Conector HDMI",
+      "boothC": "Electricidad",
+      "boothD": "Mesas y sillas para el equipo",
+      "allWeb3": "Todo lo incluido en Web-3",
+      "i": "Sponsor announcement before each talk",
+      "j": "Anuncio de auspicio al inicio de cada transmisión",
+      "k": "Acceso a dar una charla a cualquier miembro del equipo",
+      "notIncludes": "**No está incluido",
+      "l": "Pasaje aéreo para el equipo o el orador",
+      "m": "Tickets de hotel para hospedaje",
+      "n": "Estamos negociando con un hotel para brindar alojamiento a un mejor precio y con acceso expedito al evento"
+    }
+  },
+  "place": {
+    "title": "Lugar & Fecha",
+    "info": "Santiago de Chile, Octubre 2022"
+  },
+  "organizer": {
+    "title": "Organizador",
+    "description": "EL METAVERSO DONDE LOS ADULTOS Y LAS MARCAS ESTÁN SEGUROS. QUEREMOS SER EL PUNTO DE ENCUENTRO DONDE LAS PERSONAS CONECTAN, DISFRUTAN Y VIVEN EXPERIENCIAS EN EL METAVERSO."
+  },
+  "footer": {
+    "title": "Sé parte del futuro, sé parte de Metalatam",
+    "contact": "Contacto",
+    "info": "Mas Información",
+    "organized": "Organiza"
+  }
+}

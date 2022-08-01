@@ -1,0 +1,140 @@
+{
+  "title": "Metalatam",
+  "home": {
+    "subtitle": "Let's build together the transition of the web and metaverse"
+  },
+  "hello": {
+    "title": "<HELLO WORLD>",
+    "quote": "'Being a programmer was always cool'",
+    "p1": "Hello and welcome to METALATAM, an instance of digital mapping where web3 developers, digital architects, marketers and brands come together to reflect on the future we are living.",
+    "p2": "The call is that from Chile we promote the development, we unite and generate instances that promote local startups in order to scale to the world."
+  },
+  "goals": {
+    "title": "Goals",
+    "1": {
+      "title": "Education",
+      "description": "Online education revolution."
+    },
+    "2": {
+      "title": "Blockchain",
+      "description": "Blockchain, its uses, understanding and use cases."
+    },
+    "3": {
+      "title": "Web3",
+      "description": "What it is and how it changes the way we understand our data on the internet."
+    },
+    "4": {
+      "title": "Legality",
+      "description": "The future comes loaded with regulatory challenges. The question is, how are we going to organize the party."
+    },
+    "5": {
+      "title": "Dev World",
+      "description": "IT as the center of the business. Solve your email problem on your own."
+    },
+    "6": {
+      "title": "Metaverse",
+      "description": "Create immersive experiences with people at the center."
+    }
+  },
+  "road": {
+    "title": "Road Event",
+    "1": {
+      "title": "Talks",
+      "description": "Wise men talk, we all learn."
+    },
+    "2": {
+      "title": "Meet Up",
+      "description": "Meet people in the ecosystem, find a partner or a VC, anything can happen while we talk."
+    },
+    "3": {
+      "title": "Expo Stuff",
+      "description": "Tell the world what you can do for people."
+    },
+    "4": {
+      "title": "Demo Moment",
+      "description": "The moment of truth, crashing your software is highly probable."
+    }
+  },
+  "audience": {
+    "title": "Our Audience",
+    "1": {
+      "title": "Developers",
+      "description": "We want to create opportunities for recreation, where knowledge and networking prevail."
+    },
+    "2": {
+      "title": "Entrepreneurs",
+      "description": "This is the time to tell the world what you are working on. Finding that partner or investor is the goal."
+    },
+    "3": {
+      "title": "Companies",
+      "description": "VC's, managers and decision makers in a space to plan their next adventure."
+    }
+  },
+  "business": {
+    "title": "Business Opportunity",
+    "1": {
+      "title": "Expo Stuff",
+      "description": "Expose your brand to developers and consumers. A booth that surprises the audience."
+    },
+    "2": {
+      "title": "Talks",
+      "description": "Every company can send it's best champion or a sage. Choose your strategy."
+    }
+  },
+  "sponsors": {
+    "title": "Sponsors Level",
+    "includes": "Includes",
+    "categories": {
+      "1": {
+        "name": "Web-2",
+        "price": "3000 USD"
+      },
+      "2": {
+        "name": "Web-3",
+        "price": "7500 USD"
+      },
+      "3": {
+        "name": "Metaverse",
+        "price": "10000 USD"
+      }
+    },
+    "items": {
+      "a": "Logo on the organizer website www.azomland.com",
+      "b": "Logo on the event website www.metalatam.xyz",
+      "c": "Logo on the screens on the day of the event",
+      "d": "Logo in the press announcements mentioning sponsor level",
+      "e": "Logo in promotional video of the event",
+      "allWeb2": "All included in Web-2",
+      "f": "Video interview",
+      "g": "Exhibit booth on the day of the event*",
+      "h": "Announcement at the beginning of each talk as a sponsor",
+      "boothIncludes": "*Booth includes:",
+      "boothA": "52' Led monitor to project videos or images",
+      "boothB": "HDMI connector",
+      "boothC": "Electricity",
+      "boothD": "Tables and chairs for the team",
+      "allWeb3": "All included in Web-3",
+      "i": "Sponsor announcement before each talk",
+      "j": "Sponsor announcement in online broadcast",
+      "k": "Access to give a talk by a team member",
+      "notIncludes": "**Does not Include",
+      "l": "Airfare for the team or speaker",
+      "m": "Hotel tickets for lodging",
+      "n": "We are negotiating with a hotel to provide accommodations at a better price and with expedited access to the event"
+    }
+  },
+  "place": {
+    "title": "Place & Date",
+    "info": "Santiago de Chile, October 2022"
+  },
+  "organizer": {
+    "title": "Organizer",
+    "description": "The metaverse where adults and brands are safe. We want to be the meeting point where people connect, enjoy and live experiences in the metaverse."
+  },
+  "footer": {
+    "title": "Be part of the future, be part of Metalatam",
+    "contact": "Contact",
+    "info": "More Info",
+    "organized": "Organized by"
+  }
+}

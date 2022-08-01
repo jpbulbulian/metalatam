@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440.7 180">
+    <linearGradient gradientUnits="userSpaceOnUse" id="gd" x1="0" x2="440.731" xlink:actuate="onLoad" xlink:show="other"
+        xlink:type="simple" y1="90.014" y2="90.014">
+        <stop offset="0" stop-color="rgb(255, 231, 192)" />
+        <stop offset="1" stop-color="rgb(255, 215, 43)" />
+    </linearGradient>
+    <path
+        d="M292.799,58.088l-24.152,22.213l94.052,85.116l-13.225,14.611l-95.392-86.331l-30.385,27.946 l48.375,43.775l-13.223,14.611l-69.598-62.98l-68.426,62.928l-13.34-14.507l81.659-75.095l19.879,17.989l30.387-27.946 l-59.385-53.744L13.34,179.976L0,165.471L179.915,0l74.058,67.021l38.72-35.61l148.038,133.987l-13.223,14.611L292.799,58.088z"
+        fill="url(#gd)" />
+</svg>

@@ -1,0 +1,19 @@
+{
+  "short_name": "Metalatam",
+  "name": "Metalatam",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "favicon.png",
+      "sizes": "16x16 24x24 32x32 64x64 192x192 512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000"
+}

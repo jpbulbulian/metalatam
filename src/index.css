@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-color: #050734;
+  --yellow: rgb(250, 204, 21);
+}
+
+@layer components {
+  h1 {
+    @apply text-white text-center text-3xl md:text-7xl uppercase;
+    font-family: "Press Start 2P";
+    text-shadow: rgb(0, 255, 255) 4.76209px 1.09941px 0px,
+      rgb(255, 0, 255) -4.76209px -1.09941px 0px;
+  }
+  h2 {
+    @apply text-yellow-400 text-center text-2xl sm:text-3xl md:text-4xl uppercase;
+  }
+  h3 {
+    @apply text-yellow-400 text-center text-xs md:text-base uppercase;
+  }
+  p {
+    @apply text-xs md:text-sm;
+  }
+  li {
+    font-family: "Montserrat", sans-serif;
+  }
+  a,
+  button {
+    @apply hover:opacity-80 transition-all;
+  }
+}
+
+* html {
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Press Start 2P", sans-serif;
+  color: white;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--primary-color);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--yellow);
+}
